@@ -1,0 +1,9 @@
+{
+	"name": "databrincks-cursos",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "98ff975d-3dd4-4ee0-87e8-2d425e8b15e9",
+		"tenantId": "2c2b3929-57ba-4b91-a701-4d261fc00b14"
+	}
+}
